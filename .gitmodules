@@ -2,3 +2,4 @@
 	path = database
 	url = https://github.com/KhanhDoan797/database-submodule.git
 	branch = master
+	ignore = dirty
